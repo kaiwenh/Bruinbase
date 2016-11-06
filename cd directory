@@ -1,0 +1,15 @@
+cd directory
+git init
+git add ...
+git commit -m " "
+git remote add origin https://github.com/kaiwenh/Computer-Graphics-Project.git
+git push -u origin master
+git status
+git add assignment3/
+git commit -m "add proj file"
+git push 
+
+git pull
+git status
+git add
+git commit
